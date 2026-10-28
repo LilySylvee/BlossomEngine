@@ -165,7 +165,7 @@ class MainMenuState extends MusicBeatState
 
 				if (optionShit[curSelected] == 'download mods')
 				{
-					CoolUtil.browserLoad('https://lilybwossom.github.io/aboutme/category-downloads.html');
+					CoolUtil.browserLoad('sylv.ee/category-downloads');
 				}
 				else if (optionShit[curSelected] == 'discord')
 				{

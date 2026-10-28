@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_download mods.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="download mods basic0000" x="0" y="861" width="1303" height="159" frameX="2" frameY="2" frameWidth="1310" frameHeight="155"/>
+	<SubTexture name="download mods basic0001" x="0" y="861" width="1303" height="159" frameX="2" frameY="2" frameWidth="1310" frameHeight="155"/>
+	<SubTexture name="download mods basic0002" x="0" y="861" width="1303" height="159" frameX="2" frameY="2" frameWidth="1310" frameHeight="155"/>
+	<SubTexture name="download mods basic0003" x="0" y="543" width="1303" height="159" frameX="2" frameY="2" frameWidth="1310" frameHeight="155"/>
+	<SubTexture name="download mods basic0004" x="0" y="543" width="1303" height="159" frameX="2" frameY="2" frameWidth="1310" frameHeight="155"/>
+	<SubTexture name="download mods basic0005" x="0" y="543" width="1303" height="159" frameX="2" frameY="2" frameWidth="1310" frameHeight="155"/>
+	<SubTexture name="download mods basic0006" x="0" y="702" width="1303" height="159" frameX="2" frameY="2" frameWidth="1310" frameHeight="155"/>
+	<SubTexture name="download mods basic0007" x="0" y="702" width="1303" height="159" frameX="2" frameY="2" frameWidth="1310" frameHeight="155"/>
+	<SubTexture name="download mods basic0008" x="0" y="702" width="1303" height="159" frameX="2" frameY="2" frameWidth="1310" frameHeight="155"/>
+	<SubTexture name="download mods white0000" x="0" y="181" width="1306" height="181" frameX="2" frameY="2" frameWidth="1302" frameHeight="177"/>
+	<SubTexture name="download mods white0001" x="0" y="0" width="1306" height="181" frameX="2" frameY="2" frameWidth="1302" frameHeight="177"/>
+	<SubTexture name="download mods white0002" x="0" y="362" width="1306" height="181" frameX="2" frameY="2" frameWidth="1329" frameHeight="177"/>
+</TextureAtlas>

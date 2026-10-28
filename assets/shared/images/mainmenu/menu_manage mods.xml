@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_manage mods.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="manage mods basic0000" x="0" y="588" width="945" height="143" frameX="-8" frameY="2" frameWidth="962" frameHeight="139"/>
+	<SubTexture name="manage mods basic0001" x="0" y="588" width="945" height="143" frameX="-8" frameY="2" frameWidth="962" frameHeight="139"/>
+	<SubTexture name="manage mods basic0002" x="0" y="588" width="945" height="143" frameX="-8" frameY="2" frameWidth="962" frameHeight="139"/>
+	<SubTexture name="manage mods basic0003" x="0" y="731" width="945" height="143" frameX="-8" frameY="2" frameWidth="962" frameHeight="139"/>
+	<SubTexture name="manage mods basic0004" x="0" y="731" width="945" height="143" frameX="-8" frameY="2" frameWidth="962" frameHeight="139"/>
+	<SubTexture name="manage mods basic0005" x="0" y="731" width="945" height="143" frameX="-8" frameY="2" frameWidth="962" frameHeight="139"/>
+	<SubTexture name="manage mods basic0006" x="0" y="874" width="945" height="143" frameX="-8" frameY="2" frameWidth="962" frameHeight="139"/>
+	<SubTexture name="manage mods basic0007" x="0" y="874" width="945" height="143" frameX="-8" frameY="2" frameWidth="962" frameHeight="139"/>
+	<SubTexture name="manage mods basic0008" x="0" y="874" width="945" height="143" frameX="-8" frameY="2" frameWidth="962" frameHeight="139"/>
+	<SubTexture name="manage mods white0000" x="0" y="196" width="1100" height="196" frameX="2" frameY="2" frameWidth="1096" frameHeight="192"/>
+	<SubTexture name="manage mods white0001" x="0" y="0" width="1100" height="196" frameX="2" frameY="2" frameWidth="1096" frameHeight="192"/>
+	<SubTexture name="manage mods white0002" x="0" y="392" width="1100" height="196" frameX="2" frameY="2" frameWidth="1096" frameHeight="192"/>
+</TextureAtlas>
